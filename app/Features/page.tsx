@@ -1,7 +1,7 @@
 export const metadata = {
 
-  title: "事業分野",
-  description: "松田システム技研の事業分野のページです。",
+  title: '事業分野',
+  description: '松田システム技研の事業分野のページです。',
 
 };
 
