@@ -24,7 +24,7 @@ export default function Home() {
 
     <h2 className="text-gray-800 text-xl sm:text-2xl font-semibold mb-2 md:mb-4">研究開発</h2>
 
-    <p className="text-gray-500 sm:text-lg mb-6 md:mb-8">一歩先を行く"アイディア"を、製品やサービスとして具現化するために、 先端技術や先 進 デザインの研究・開発に日々、取り組んでいます。</p>
+    <p className="text-gray-500 sm:text-lg mb-6 md:mb-8">一歩先を行くアイディアを、製品やサービスとして具現化するために、 先端技術や先 進 デザインの研究・開発に日々、取り組んでいます。</p>
 
 
     <h2 className="text-gray-800 text-xl sm:text-2xl font-semibold mb-2 md:mb-4">先端技術のご紹介</h2>
