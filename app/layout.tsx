@@ -1,7 +1,6 @@
 import Navigation from "./components/navigation";
 import "./globals.css";
 import { Inter } from "next/font/google";
-import Head from 'next/head';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -26,12 +25,7 @@ export default function RootLayout({
   <title>松田システム技研</title>
 </head> */}
 
-<Head>
-      <title>松田システム技研</title>
-{/* 
-       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-       */}
-      </Head>
+
 
 
       <body className={inter.className}>
