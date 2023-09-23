@@ -1,12 +1,16 @@
 
+export const metadata = {
+
+  title: "企業理念",
+  description: "松田システム技研の企業理念のページです。",
+
+};
 
 export default function Home() {
   return (
 <main className="flex min-h-screen flex-col items-center justify-between p-12">
 
-<head>
-  <title>企業理念</title>
-</head> 
+
 
 <div className="py-6 sm:py-8 lg:py-12">
   <div className="max-w-screen-md px-4 md:px-8 mx-auto">
