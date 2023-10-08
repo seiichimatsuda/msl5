@@ -40,7 +40,7 @@ export default function Home() {
 
 
 <ul className="list-none list-inside text-gray-500 sm:text-lg mb-6 md:mb-8">
-<li>お問合せ、打合せ、ご連絡については、<a  href="https://msl-booking.square.site/"style={{
+<li>お問合せ、打合せ、ご連絡については、<a  href="https://msl-contact.square.site/"style={{
               textDecoration: 'underline',
               color: 'blue',
              
