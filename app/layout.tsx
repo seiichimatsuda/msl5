@@ -40,7 +40,7 @@ export default function RootLayout({
 
       <nav className="flex flex-wrap justify-center md:justify-start gap-x-4 gap-y-2 md:gap-6 mb-4">
 
-        {/* <a href="/Commerciallaw" class="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">特定商取引法に基づく表記</a> */}
+        <a href="/Transaction" className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">特定商取引法に基づく表記</a>
 
         <a href="/Privacy" className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100">個人情報保護方針</a>
  
@@ -86,7 +86,7 @@ export default function RootLayout({
 
       {/* <!-- social - end --> */}
      </div>
-       <div className="text-gray-400 text-sm text-center py-8">Copyright 2023 - Present MSL. All rights reserved.</div>
+       <div className="text-gray-400 text-sm text-center py-8">Copyright 2024 - Present MSL. All rights reserved.</div>
      
 
 
