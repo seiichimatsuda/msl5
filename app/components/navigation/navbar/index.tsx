@@ -60,6 +60,11 @@ const Navbar = ({ toggle }: { toggle: () => void }) => {
                   <p>環境活動</p>
                 </Link>
               </li>
+              <li>
+                <Link href="/Service">
+                  <p>サービス</p>
+                </Link>
+              </li>
             </ul>
             
             <div className="hidden md:block">
